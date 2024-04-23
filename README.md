@@ -1,6 +1,5 @@
 # ecommerceapp_starter
-
-A new Flutter project.
+Flutter E-commerce App with a cool UI Design for Shops and Clothes.
 
 ## Getting Started
 
